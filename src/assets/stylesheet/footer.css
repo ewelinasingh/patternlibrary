@@ -1,0 +1,29 @@
+.col-md-5{
+    text-align: left;
+  }
+  
+  .col-md-7{
+    text-align: left;
+  }
+  
+  .footer{
+    background-color: #D2A5FF;
+    color: white;
+  }
+  
+  .full-width{
+    width: 100vw;
+    height: 20vh;
+  }
+  
+  .third{
+    width: 33vw;
+    height: 100%;
+    float: left;
+    margin-top: 10px;
+  }
+  
+  .social{
+    float: left;
+    width: 33.3%;
+  }

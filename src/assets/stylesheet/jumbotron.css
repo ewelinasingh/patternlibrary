@@ -1,0 +1,43 @@
+.col-md-6{
+    text-align: left;
+  }
+  
+  .full-width{
+    width: 100vw;
+    height: 100vh;
+  }
+  
+  .jumbo-header{
+    position: relative;
+    background-image: linear-gradient(to bottom right, #B266FF, #DAB5FF);
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 5px 5px 15px 3px #888888;
+  }
+  
+  .text-block{
+    height: 80%;
+    width: 90%;
+    position: absolute;
+    top:10%;
+    left: 5%;
+  }
+  
+  .text-field{
+    border: none;
+    border-bottom: 2px solid #B266FF;
+    border-radius: 5px;
+    padding: 5px;
+    width: 40%;
+    margin-right: 30px;
+  }
+  
+  ::placeholder{
+    color: grey; 
+  } 
+  :-ms-input-placeholder{
+    color: grey; 
+  } 
+  ::-ms-input-placeholder{
+    color: grey; 
+  }

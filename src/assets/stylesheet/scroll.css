@@ -1,0 +1,55 @@
+  .scrollbox{
+    height: 25vh;
+    width: 40vw;
+    overflow: scroll; 
+  }
+  
+  
+  .default-scroll-bar::-webkit-scrollbar{
+    width: 15px;
+  }
+  .sm-scroll-bar::-webkit-scrollbar{
+    width: 10px;
+  }
+  .lrg-scroll-bar::-webkit-scrollbar{
+    width: 20px;
+  }
+  
+  .default-scroll-track::-webkit-scrollbar-track{
+    background: #E1E1E1; 
+  }
+  .purple-scroll-track::-webkit-scrollbar-track{
+    background: #EEDCFF; 
+  }
+  .blue-scroll-track::-webkit-scrollbar-track{
+    background: #D7F3F3; 
+  }
+  .green-scroll-track::-webkit-scrollbar-track{
+    background: #D3F6E4; 
+  }
+  
+  .default-scroll-thumb::-webkit-scrollbar-thumb{
+    background: #A9A9A9; 
+  }
+  .purple-scroll-thumb::-webkit-scrollbar-thumb{
+    background: #CB95FF; 
+  }
+  .blue-scroll-thumb::-webkit-scrollbar-thumb{
+    background: #8EE4E4; 
+  }
+  .green-scroll-thumb::-webkit-scrollbar-thumb{
+    background: #86F0BB; 
+  }
+  
+  .default-scroll-thumb::-webkit-scrollbar-thumb:hover{
+    background: #555; 
+  }
+  .purple-scroll-thumb::-webkit-scrollbar-thumb:hover{
+    background: #B266FF; 
+  }
+  .blue-scroll-thumb::-webkit-scrollbar-thumb:hover{
+    background: #5BC0BE; 
+  }
+  .green-scroll-thumb::-webkit-scrollbar-thumb:hover{
+    background: #40EE95; 
+  }
