@@ -4,7 +4,7 @@
     <p> A jumbotron is a call to action which enables the user to interact with the website. </p>
     <div class="row">
       <div class="col-md-6">
-        This jumbotron allows the user to subscribe to the website's services, for example to receive discounts, updates or a newsletter by providing the email.
+        <p>This jumbotron allows the user to subscribe to the website's services, for example to receive discounts, updates or a newsletter by providing the email. </p>
       </div>
       <div class="col-md-6">
         <pre class="code-block">
@@ -51,6 +51,8 @@ export default {
 </script>
 
 <style scoped>
-  
+  .col-md-6 p{
+    margin-left: 10px;
+  }
   
 </style>

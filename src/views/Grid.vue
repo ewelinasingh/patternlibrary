@@ -168,7 +168,7 @@
     </pre>
     <hr>
     
-    <h2> 2 columns </h2>
+    <h2> 9 columns </h2>
     <div class="row-container">
       <div class="column col-border">9 </div>
       <div class="column col-border">9 </div>

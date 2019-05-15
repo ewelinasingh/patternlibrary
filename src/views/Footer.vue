@@ -105,4 +105,7 @@
 </script>
 
 <style scoped>
+.col-md-5 p{
+    margin-left: 10px;
+  }
 </style>

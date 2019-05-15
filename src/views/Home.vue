@@ -1,17 +1,21 @@
 <template>
   <div> 
-    <h1> Home </h1>
     <h3> PatternLibrary provides component templates to use within your website! </h3>
-    <hr>
+    <br><br><br>
     
     <h3> How to Download </h3>
     <p> Click the below button to download the PatternLibrary. </p>
-    <button class="my-button purple" href="../assets/fb.png"> Download PatternLibrary </button>
-    <hr>
+    <br>
+    <a href="./assets/downloads/PatternLibrary.zip" class="my-button purple" download> Download PatternLibrary </a>
+    <br><br><br><br>
     
     <h3> How to Set Up </h3>
-    <hr>
-    
+    <p> To use the PatternLibrary CSS file, add the following code to the head tag. Ensure to place it before other stylesheets. </p>
+    <pre class="code-block">
+      <code>
+        &lt;link rel="stylesheet" href="stylesheet/main.css"&gt;
+      </code>
+    </pre>
     
   </div>
 </template>
@@ -33,4 +37,15 @@
 
 <style scoped>
 
+  a{
+    text-decoration: none;
+  }
+  
+  a:hover{
+    color: white;
+  }
+  
+  pre{
+    text-align: center;
+  }
 </style>

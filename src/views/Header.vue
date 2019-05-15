@@ -54,4 +54,8 @@
 </script>
 
 <style scoped>
+  .col-md-6 p{
+    margin-left: 10px;
+
+  }
 </style>
