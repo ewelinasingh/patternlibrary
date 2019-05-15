@@ -4,9 +4,9 @@
     <br><br><br>
     
     <h3> How to Download </h3>
-    <p> Click the below button to download the PatternLibrary. </p>
+    <p> Click the below button to download the PatternLibrary.</p>
     <br>
-    <a href="./assets/downloads/PatternLibrary.zip" class="my-button purple" download> Download PatternLibrary </a>
+    <a href="downloads/PatternLibrary.zip" class="my-button purple" download> Download PatternLibrary </a>
     <br><br><br><br>
     
     <h3> How to Set Up </h3>
