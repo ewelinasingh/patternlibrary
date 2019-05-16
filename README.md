@@ -11,7 +11,7 @@ PatternLibrary provides the following components in different variations:
 - Scrollbar
 - Grid System
 
-The project was deployed to Firebase and can be accessed via the below link.
+The project was deployed to Firebase and can be accessed via the following link.
 [https://patternlibrary-12fad.firebaseapp.com/#/](https://patternlibrary-12fad.firebaseapp.com/#/)
 
 The GitHub repository can be accessed via the following link.
